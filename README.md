@@ -1,13 +1,7 @@
 <h1 align="center">
-  <b>AgenticRed: Optimizing Agentic Systems for Automated Red-teaming</b><br>
+  <b>AgenticRed: Evolving Agentic Systems for Red-Teaming</b><br>
 </h1>
 
-<p align="center">
-  <a href="https://github.com/yuanjiayiy/AgenticRed/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge"></a>
-  <a href="https://arxiv.org/abs/2601.13518"><img src="https://img.shields.io/badge/arXiv-2408.08435-b31b1b.svg?logo=arxiv&style=for-the-badge"></a>
-  <a href="https://yuanjiayiy.github.io/AgenticRed/"><img src="https://img.shields.io/badge/-Website-%238D6748?style=for-the-badge&logo=Website&logoColor=white"></a>
-  <a href="https://x.com/carrieyuanjiayi/status/2014043770300645468"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee"></a>
-</p>
 
 
 # AgenticRed
@@ -212,20 +206,6 @@ bash _redteam/scripts/search.sh --expr 1
 
 # 3. Run evaluation
 bash _redteam/scripts/eval.sh --config _redteam/configs/eval_easyjailbreak.yaml
-```
-
-## Citation
-
-```bibtex
-@misc{yuan2026agenticredoptimizingagenticsystems,
-      title={AgenticRed: Optimizing Agentic Systems for Automated Red-teaming}, 
-      author={Jiayi Yuan and Jonathan Nöther and Natasha Jaques and Goran Radanović},
-      year={2026},
-      eprint={2601.13518},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2601.13518}, 
-}
 ```
 
 
